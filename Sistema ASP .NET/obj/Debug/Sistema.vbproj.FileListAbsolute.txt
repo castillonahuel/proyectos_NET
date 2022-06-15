@@ -1,0 +1,16 @@
+E:\nahuc\repos\Sistema\bin\Debug\Sistema.exe.config
+E:\nahuc\repos\Sistema\bin\Debug\Sistema.exe
+E:\nahuc\repos\Sistema\bin\Debug\Sistema.pdb
+E:\nahuc\repos\Sistema\bin\Debug\Sistema.xml
+E:\nahuc\repos\Sistema\obj\Debug\Sistema.vbprojAssemblyReference.cache
+E:\nahuc\repos\Sistema\obj\Debug\Sistema.Form1.resources
+E:\nahuc\repos\Sistema\obj\Debug\Sistema.Resources.resources
+E:\nahuc\repos\Sistema\obj\Debug\Sistema.vbproj.GenerateResource.cache
+E:\nahuc\repos\Sistema\obj\Debug\Sistema.vbproj.CoreCompileInputs.cache
+E:\nahuc\repos\Sistema\obj\Debug\Sistema.exe
+E:\nahuc\repos\Sistema\obj\Debug\Sistema.xml
+E:\nahuc\repos\Sistema\obj\Debug\Sistema.pdb
+E:\nahuc\repos\Sistema\obj\Debug\Sistema.Clientes.resources
+E:\nahuc\repos\Sistema\obj\Debug\Sistema.Proveedores.resources
+E:\nahuc\repos\Sistema\obj\Debug\Sistema.Inicio.resources
+E:\nahuc\repos\Sistema\obj\Debug\Sistema.Usuarios.resources
